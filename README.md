@@ -241,3 +241,37 @@ Default configs and lists of third party packages / apps to integrate into Entro
 
 </details>
 
+<details>
+  <summary><h1>Shell UX & Search</h1></summary>
+
+> ## `fzf`  
+> ### Command-line fuzzy finder (TUI)  
+> <img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-color.png" width="32%"> <img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png" width="32%">  
+> [GitHub](https://github.com/junegunn/fzf)
+
+> ## `ripgrep (rg)`  
+> ### Fast recursive search with .gitignore support  
+> <img src="https://camo.githubusercontent.com/76c07053bbeb928779ebd76507970f2d79578b16752414c97ac551557c40531c/68747470733a2f2f6275726e7473757368692e6e65742f73747566662f72697067726570312e706e67" width="32%">  
+> [GitHub](https://github.com/BurntSushi/ripgrep)
+
+> ## `fd`  
+> ### Simple, fast alternative to `find`  
+> <img src="https://github.com/sharkdp/fd/raw/master/doc/screencast.svg" width="48%">  
+> [GitHub](https://github.com/sharkdp/fd)
+
+> ## `bat`  
+> ### `cat` clone with syntax highlighting & Git integration  
+> <img src="https://camo.githubusercontent.com/43e40bf9c20d5ceda8fa67f1d95b5c66548b2f6f8dca8403e08129991cc32966/68747470733a2f2f692e696d6775722e636f6d2f326c53573452452e706e67" width="32%"> <img src="https://camo.githubusercontent.com/53fa5d4d298aafad2d5baf2312865d0fe5fb2a130bdc8e21d7f534f39f76e29b/68747470733a2f2f692e696d6775722e636f6d2f576e64477039482e706e67" width="32%">  
+> [GitHub](https://github.com/sharkdp/bat)
+
+> ## `eza`  
+> ### Modern, maintained replacement for `ls`  
+> <img src="https://eza.rocks/demo.gif" width="48%">  
+> [Website](https://eza.rocks) · [GitHub](https://github.com/eza-community/eza)
+
+> ## `zoxide`  
+> ### Smarter `cd` with frecency-based jumping  
+> <img src="https://github.com/ajeetdsouza/zoxide/raw/main/contrib/tutorial.webp" width="48%">  
+> [GitHub](https://github.com/ajeetdsouza/zoxide)
+
+</details>
